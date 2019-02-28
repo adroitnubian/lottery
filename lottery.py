@@ -4,7 +4,7 @@
 
 #	Date		Author		Description
 #	28/02/2019	MAC			Initial version
-#
+#	28/02/2019	MAC			Remove comments
 #
 ############################################################
 import os
@@ -23,5 +23,3 @@ def main():
 if __name__ == "__main__":
     # Execute only is run as a script
     main()
-#if __name__ == "__main__":
-#    print UAPS_menu.__doc__
